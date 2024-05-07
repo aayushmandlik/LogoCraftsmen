@@ -1,0 +1,16 @@
+User-agent: *
+Allow : /about/
+Allow : /portfolio/
+Allow : /contact/
+Allow : /vector/
+Allow : /embroidery/
+Allow : /artvisuals/
+Allow : /orderentry/
+Allow : /imageedit/
+Allow : /faqs/
+Allow : /terms/
+Allow : /privacy/
+Disallow: /private/
+Disallow: /admin/
+Crawl-delay: 10
+
